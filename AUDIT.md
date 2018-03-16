@@ -2,7 +2,7 @@
 
 ![Before image](img/Knipsel.PNG)
 
-![After image](img/Knipsel1.PNG)
+![After image](img/Knipsel2.PNG)
 
 ## Compress images
 
