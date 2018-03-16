@@ -1,5 +1,9 @@
 # Performance matters
 
+## AUDIT.md
+
+For performance matters I did some audits for the bootstrap documentation website. You can see my findings in the Audit.md.
+
 ## Project setup
 
 This project serves an adapted version of the [Bootstrap documentation website](http://getbootstrap.com/). It is based on the [github pages branche of Bootstrap](https://github.com/twbs/bootstrap/tree/gh-pages). 
